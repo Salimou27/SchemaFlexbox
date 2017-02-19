@@ -1,0 +1,74 @@
+* {
+margin:0;
+}
+
+.Zoneduhaut {
+  background-color:red;
+  height:20vh;
+  width:100vw;
+}
+.Zonedegauche {
+  background-color: blue;
+  width: 20vw;
+  height:80vh;
+  float: left;
+}
+.Zonededroite {
+  background-color: blue;
+  width: 20vw;
+  height:80vh;
+  float: right;
+}
+
+.Z {
+  background-color: green;
+  height: 60vh;
+  display: flex ;
+  margin: auto;
+
+  /*position: relative; left: 20vw ; top: -80vh ;*/
+}
+
+.Z1 {
+
+  height: 60vh;
+  width:  20%;
+  border:1px white solid ;
+}
+
+.Z2 {
+  height: 60vh;
+  width:  20%;
+  border:1px white solid ;
+}
+
+.Z3 {
+
+  height: 60vh;
+  width:  20%;
+  border:1px white solid ;
+}
+
+.Z4 {
+
+  height: 60vh;
+  width:  20%;
+  border:1px white solid ;
+}
+
+.Z5 {
+
+  height: 60vh;
+  width:  20%;
+  border:1px white solid ;
+}
+
+
+.Zonedubas {
+  background-color: Yellow;
+  height: 20vh;
+  width: 60vw;
+  margin-left: 20vw;
+  margin: auto;
+
+}
